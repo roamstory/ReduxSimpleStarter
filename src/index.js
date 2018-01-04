@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 import SearchBar from './component/search_bar';
 
-const API_KEY = 'AIzaSyA2XRSnlrRPxG8sgOmFy6J41-czJ4MuZow';
+const API_KEY = 'AIzaSyA2XRSnlrRPxG8sgOmFy6J41-czJ4MuZow';  //Youtube API KEY
 
 // Create a new component. This component sould produce
 // some HTML
